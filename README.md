@@ -9,7 +9,7 @@ I’m a passionate and detail-oriented Bachelor’s Degree student in **Informat
 
 <!-- - 🔭 I’m working on personal and academic projects, including **Solana Wallet DApp** and a **Personal Portfolio**. -->
 - 🌱 I’m currently learning **Javascript***, **Tailwind CSS**, and **Java**.
-- 💬 Ask me about **Java**, **PERN stack**, **Blender 3D**, and **Figma**.
+- 💬 Ask me about **Java**, **Blender 3D**, and **Figma**.
 - 📚 I’m interested in **Web Development**, and **Artificial Intelligence**.
 - 📊 I also trade crypto when I'm bored.
 - 🌐 Check out my **[Portfolio Website](https://masbroamat-portfolio.vercel.app/)**.
