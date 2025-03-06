@@ -6,7 +6,7 @@ My friends call me masbro.
 
 ## 👨‍💻 About Me
 
-I’m a passionate and detail-oriented Bachelor’s Degree student in **Information Systems Engineering** at **Universiti Teknologi MARA (UiTM)**. I specialize in building full-stack web applications and solving problems with innovative solutions. Currently, I'm open to **internship opportunities starting from March 10, 2025**.
+I’m a Bachelor’s Degree student in **Information Systems Engineering** at **Universiti Teknologi MARA (UiTM)**. I specialize in building full-stack web applications and solving problems with code. Currently, I'm undergoing to **internship** at **HeiTech Padu Berhad** from 10/3/2025 until 6/3/2026.
 
 <!-- - 🔭 I’m working on personal and academic projects, including **Solana Wallet DApp** and a **Personal Portfolio**. -->
 
