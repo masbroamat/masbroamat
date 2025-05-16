@@ -14,7 +14,7 @@ I’m a Bachelor’s Degree student in **Information Systems Engineering** at **
 - 💬 Ask me about **Java**, **Blender 3D**, and **Figma**.
 - 📚 I’m interested in **Web Development**, and **Artificial Intelligence**.
 - 📊 I also trade crypto when I'm bored.
-- 🌐 Check out my **[Portfolio Website](https://masbroamat-portfolio.vercel.app/)**.
+- 🌐 Check out my **[Portfolio Website](https://masbroamat-portfolio-v2.vercel.app/)**.
 - 📫 How to reach me: [syazwanyacob.work@gmail.com](mailto:syazwanyacob.work@gmail.com)
 
 ---
