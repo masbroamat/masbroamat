@@ -8,12 +8,9 @@ My friends call me masbro.
 
 I’m a Bachelor’s Degree student in **Information Systems Engineering** at **Universiti Teknologi MARA (UiTM)**. I specialize in building full-stack web applications and solving problems with code. Currently, I'm undergoing to **internship** at **HeiTech Padu Berhad** from 10/3/2025 until 6/3/2026.
 
-<!-- - 🔭 I’m working on personal and academic projects, including **Solana Wallet DApp** and a **Personal Portfolio**. -->
-
 - 🌱 I’m currently learning **Javascript**, **Tailwind CSS**, and **Java**.
 - 💬 Ask me about **Java**, **Blender 3D**, and **Figma**.
 - 📚 I’m interested in **Web Development**, and **Artificial Intelligence**.
-- 📊 I also trade crypto when I'm bored.
 - 🌐 Check out my **[Portfolio Website](https://masbroamat-portfolio-v2.vercel.app/)**.
 - 📫 How to reach me: [syazwanyacob.work@gmail.com](mailto:syazwanyacob.work@gmail.com)
 
@@ -32,7 +29,6 @@ I’m a Bachelor’s Degree student in **Information Systems Engineering** at **
 ### 🌐 Frameworks & Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Tools & Platforms
@@ -57,7 +53,7 @@ I’m a Bachelor’s Degree student in **Information Systems Engineering** at **
 
 ## 📬 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://masbroamat-portfolio.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://masbroamat-portfolio-v2.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syazwan-yacob)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masbroamat)
 
